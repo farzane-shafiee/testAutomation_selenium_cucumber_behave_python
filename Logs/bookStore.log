@@ -1,0 +1,48 @@
+2022_08_13-22_31_22 - 
+
+2022_08_13-22_31_22 - ====== WebDriver manager ======
+2022_08_13-22_31_23 - Current google-chrome version is 104.0.5112
+2022_08_13-22_31_23 - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022_08_13-22_31_24 - Driver [C:\Users\Iris\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022_08_13-22_31_26 - *** Driver initialized ***
+2022_08_13-22_31_29 - *** Get URL ***
+2022_08_13-22_31_29 - *** Web Driver Wait ***
+2022_08_13-22_31_29 - *** Find the Login Link ***
+2022_08_13-22_31_29 - *** Click the Login Link ***
+2022_08_13-22_31_29 - *** Find the Username Input ***
+2022_08_13-22_31_29 - *** Click the Username Input ***
+2022_08_13-22_31_29 - *** Send keys the Username Input ***
+2022_08_13-22_31_29 - *** Find the Password Input ***
+2022_08_13-22_31_30 - *** Click the Password Input ***
+2022_08_13-22_31_30 - *** Send keys the Password Input ***
+2022_08_13-22_31_30 - *** Create ActionChains Driver ***
+2022_08_13-22_31_30 - *** Find the Login Button ***
+2022_08_13-22_31_31 - *** Click the Login Button ***
+2022_08_13-22_31_31 - *** Find the Assert Login ***
+2022_08_13-22_31_31 - *** If is True for Assert Login ***
+2022_08_13-22_31_32 - *** Close Driver ***
+2022_08_13-22_31_34 - 
+
+2022_08_13-22_31_34 - ====== WebDriver manager ======
+2022_08_13-22_31_35 - Current google-chrome version is 104.0.5112
+2022_08_13-22_31_35 - Get LATEST chromedriver version for 104.0.5112 google-chrome
+2022_08_13-22_31_36 - Driver [C:\Users\Iris\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+2022_08_13-22_31_38 - *** Driver initialized ***
+2022_08_13-22_31_41 - *** Get URL ***
+2022_08_13-22_31_41 - *** Web Driver Wait ***
+2022_08_13-22_31_41 - *** Find the Login Link ***
+2022_08_13-22_31_41 - *** Click the Login Link ***
+2022_08_13-22_31_41 - *** Find the Username Input ***
+2022_08_13-22_31_41 - *** Click the Username Input ***
+2022_08_13-22_31_42 - *** Send keys the Username Input ***
+2022_08_13-22_31_42 - *** Find the Password Input ***
+2022_08_13-22_31_42 - *** Click the Password Input ***
+2022_08_13-22_31_42 - *** Send keys the Password Input ***
+2022_08_13-22_31_42 - *** Create ActionChains Driver ***
+2022_08_13-22_31_42 - *** Find the Login Button ***
+2022_08_13-22_31_43 - *** Click the Login Button ***
+2022_08_13-22_31_43 - *** Find the Assert Login ***
+2022_08_13-22_31_43 - *** Find the Assert Not Login ***
+2022_08_13-22_31_43 - *** If is False for Assert Not Login ***
+2022_08_13-22_31_43 - *** Close Driver ***
+*** Close Driver ***

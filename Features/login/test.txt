@@ -1,0 +1,39 @@
+Examples:
+#          And login done
+
+#      Example: valid username and invalid password
+#        Given username with data "09193619468" and password with data "666666"
+#         When insert correct username but wrong password
+#         Then login not done
+#
+#      Example: invalid username
+#        Given username with data "66666666666"
+#         When insert wrong username
+#         Then show invalid wrong username
+#
+#      Example: no data username
+#        Given username without data ""
+#         When dont insert data username
+#         Then show no data wrong username
+#
+#      Example: no data password
+#        Given password without data ""
+#         When dont insert data password
+#         Then show no data wrong password
+
+
+
+Feature: Login flytoday site
+  @browser
+  Scenario: valid login by valid username and password
+    Given open the site
+    When click the login and register button
+    Then insert correct username "09193619468"
+      | username    |
+      | 09193619468 |
+    Then click the continue button
+    Then insert correct password "123123"
+      | password |
+      | 123123   |
+    Then click the login button
+    Then assertion login
